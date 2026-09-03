@@ -87,45 +87,77 @@ Arquivo único `.html` com três blocos:
 
 ## Créditos
 
-Artefato gerado com apoio de IA (Claude, Anthropic) a partir do modelo de Excel construído pela autora para o Projeto 1 do curso *Análise de Dados para Pesquisas em Políticas Públicas* (FGV EAESP).
-Disclaimer de Inteligência Artificial
 
-Vale só para o que realmente foi feito com apoio de IA. No Projeto 1, isso inclui o artefato HTML do simulador.
+# Simulador de Repasse do PNAE
 
-Uso de Inteligência Artificial
-Ferramenta utilizada: Claude (Anthropic)
-Para que foi usada: gerar o artefato HTML interativo do simulador de repasse do PNAE, reproduzindo em código a lógica de cálculo (fórmulas, faixas de porte e regra de elegibilidade) originalmente construída em Excel com o prompt enviado pela professora. E pedimos a estrutura do README ao Claude.
-Exemplo de prompt utilizado: "Claude, explique como fazer um README e nos ajude a fazer um do nosso projeto passo a passo"
+Projeto 1 — Análise de Dados para Políticas Públicas (FGV EAESP)
 
-Disclaimer de Dados
+---
+
+## 📌 Créditos
+
+Artefato gerado com apoio de IA (Claude, Anthropic) a partir do modelo de Excel construído pelo autor para o Projeto 1 do curso *Análise de Dados para Pesquisas em Políticas Públicas* (FGV EAESP).
+
+---
+
+## ⚠️ Disclaimer de Inteligência Artificial
+
+> Este aviso vale apenas para o que realmente foi feito com apoio de IA. No Projeto 1, isso inclui os artefatos HTML do simulador.
+
+**Ferramenta utilizada:** Claude (Anthropic)
+
+**Para que foi usado:**
+Gerar os artefatos HTML interativos do simulador de repasse do PNAE, reproduzindo em código a lógica de design (fórmulas, faixas de porte e regra de elegibilidade) originalmente construída em Excel, a partir do prompt enviado pela professora. A estrutura deste README também foi elaborada com apoio do Claude.
+
+**Exemplo de prompt utilizado:**
+> "Claude, explique como fazer um README e nos ajude a fazer um do nosso projeto passo a passo."
+
+---
+
+## 📊 Aviso de Isenção de Responsabilidade de Dados
 
 Explica de onde vêm os dados usados no projeto, o que eles representam e como estão estruturados.
 
-Fonte de Dados
-Fonte oficial: Resolução CD/FNDE nº 1, de 18 de fevereiro de 2026 (valores per capita do PNAE, reajustados em 14,35% em relação a 2025)
-Link oficial: 
-O que os dados representam: os valores per capita diários (R$/dia) que o governo federal repassa às escolas por aluno matriculado, variando conforme a modalidade de ensino (creche, pré-escola, fundamental, médio, EJA, indígena/quilombola e atendimento educacional especializado). Esses valores, multiplicados pelo número de matrículas e pelos dias letivos do ano, determinam o repasse anual de cada escola.
-Estrutura:
-Variável	O que significa
-modalidade	Etapa/modalidade de ensino (creche, pré-escola, fundamental, médio, EJA, indígena/quilombola, AEE)
-percapita (R$/dia)	Valor diário repassado por aluno matriculado naquela modalidade
-matrículas	Número de alunos matriculados em cada modalidade na escola
-dias letivos	Quantidade de dias do ano letivo cobertos pelo repasse (200 dias)
-porte	Classificação da escola (Pequena/Média/Grande) conforme total de matrículas — critério didático, não oficial
-elegibilidade	Indicador de elegibilidade à complementação municipal — regra didática, não oficial
-Disclaimer de Participação
+### Fonte de Dados
 
-Explica o que o grupo aprendeu com o projeto e o papel de cada integrante.
+- **Fonte oficial:** Resolução CD/FNDE nº 1, de 18 de fevereiro de 2026 (valores per capita do PNAE, reajustados em 14,35% em relação a 2025)
+- **Link oficial:** *[inserir link]*
 
-Participação do Grupo
-O que aprendemos com este projeto: [descrever — ex.: aplicação prática de PROCV e SE aninhado com E/OU em um caso real de política pública; entendimento de como o PNAE calcula repasses; tradução de uma planilha Excel em um artefato interativo]
+**O que os dados representam:**
+Os valores per capita diários (R$/dia) que o governo federal repassa às escolas por aluno matriculado, variando conforme a modalidade de ensino (creche, pré-escola, fundamental, médio, EJA, indígena/quilombola e atendimento educacional especializado). Esses valores, multiplicados pelo número de matrículas e pelos dias letivos do ano, determinam o repasse anual de cada escola.
 
-Papel de cada integrante:
+### Estrutura dos Dados
 
-[Nome 1]: [o que fez no projeto]
-[Nome 2]: [o que fez no projeto]
-[Nome 3]: [o que fez no projeto]
-Conteúdo
-simulador_pnae (1).html
+| Variável | O que significa |
+|---|---|
+| `modalidade` | Etapa/modalidade de ensino (creche, pré-escola, fundamental, médio, EJA, indígena/quilombola, AEE) |
+| `percapita` (R$/dia) | Valor diário repassado por aluno matriculado na modalidade |
+| `matrículas` | Número de alunos matriculados em cada modalidade na escola |
+| `dias letivos` | Quantidade de dias do ano letivo cobertos pelo repasse (200 dias) |
+| `porte` | Classificação da escola (Pequena/Média/Grande) conforme total de matrículas — **critério didático, não oficial** |
+| `elegibilidade` | Indicador de elegibilidade à complementação municipal — **regra didática, não oficial** |
 
-HTML
+---
+
+## 👥 Disclaimer de Participação
+
+Explica o que o grupo aprendeu com o projeto e o papel de cada membro.
+
+**O que aprendemos com este projeto:**
+*[descrever — ex.: aplicação prática de PROCV e SE aninhado com E/OU em um caso real de política pública; entendimento de como o PNAE calcula repasses; tradução de uma planilha Excel em um artefato interativo]*
+
+**Papel de cada um:**
+
+- **[Ana Clara Oliveira ]:** [o que fez no projeto]
+- **[Jamilly Cardoso Barros]:** [Apresentação do repositório, inseriu arquivos e criou pastas dos projetos]
+- **[Joyeeon Lee]:** [o que fez no projeto]
+- **[Lara Morais]:** [o que fez no projeto]
+- **[Marcely de Macedo]:** [o que fez no projeto]
+
+---
+
+## 📁 Conteúdo
+
+- `simulador_pnae (1).html` — Simulador interativo em HTML
+
+
