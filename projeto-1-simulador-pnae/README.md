@@ -121,7 +121,7 @@ Explica de onde vêm os dados usados no projeto, o que eles representam e como e
 ### Fonte de Dados
 
 - **Fonte oficial:** Resolução CD/FNDE nº 1, de 18 de fevereiro de 2026 (valores per capita do PNAE, reajustados em 14,35% em relação a 2025)
-- **Link oficial:** *[inserir link]*
+- **Link oficial:** *[https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-escolar]*
 
 **O que os dados representam:**
 Os valores per capita diários (R$/dia) que o governo federal repassa às escolas por aluno matriculado, variando conforme a modalidade de ensino (creche, pré-escola, fundamental, médio, EJA, indígena/quilombola e atendimento educacional especializado). Esses valores, multiplicados pelo número de matrículas e pelos dias letivos do ano, determinam o repasse anual de cada escola.
