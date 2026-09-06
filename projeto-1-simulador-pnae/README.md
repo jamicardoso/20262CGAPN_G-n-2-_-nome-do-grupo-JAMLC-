@@ -144,7 +144,7 @@ Os valores per capita diários (R$/dia) que o governo federal repassa às escola
 Explica o que o grupo aprendeu com o projeto e o papel de cada membro.
 
 **O que aprendemos com este projeto:**
-*[descrever — ex.: aplicação prática de PROCV e SE aninhado com E/OU em um caso real de política pública; entendimento de como o PNAE calcula repasses; tradução de uma planilha Excel em um artefato interativo]*
+Este projeto nos permitiu aplicar, na prática, conceitos de fórmulas do Excel em um caso real de política pública. Trabalhamos com PROCV para buscar valores de referência (como faixas de repasse por número de matrículas) e com a função SE aninhada, combinada a E/OU, para tratar as diferentes regras de cálculo do repasse do PNAE. Também usamos SOMARPRODUTO e uma Tabela de Dados para simular cenários com múltiplas variáveis ao mesmo tempo. Além do aprendizado técnico em Excel, o projeto nos ajudou a entender melhor como funciona, na prática, o repasse de recursos do Programa Nacional de Alimentação Escolar (PNAE) entre os entes federativos. Por fim, tivemos a experiência de traduzir uma planilha com lógica de cálculo já validada em um artefato HTML interativo, com apoio de inteligência artificial, o que exigiu conferir se o simulador replicava fielmente o gabarito da planilha original.
 
 **Papel de cada um:**
 
