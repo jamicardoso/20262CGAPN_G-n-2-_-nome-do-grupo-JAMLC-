@@ -150,7 +150,7 @@ Este projeto nos permitiu aplicar, na prática, conceitos de fórmulas do Excel 
 
 - **[Ana Clara Oliveira ]:** [o que fez no projeto]
 - **[Jamilly Cardoso Barros]:** [o que fez no projeto]
-- **[Joyeeon Lee]:** [o que fez no projeto]
+- **[Joohyeon Lee]:** [reuniu os prints e registrou a entrega no eClass]
 - **[Lara Morais]:** [o que fez no projeto]
 - **[Marcely de Macedo]:** [o que fez no projeto]
 
