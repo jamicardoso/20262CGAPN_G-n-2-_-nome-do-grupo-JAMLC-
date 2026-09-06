@@ -149,7 +149,7 @@ Explica o que o grupo aprendeu com o projeto e o papel de cada membro.
 **Papel de cada um:**
 
 - **[Ana Clara Oliveira ]:** [o que fez no projeto]
-- **[Jamilly Cardoso Barros]:** [Apresentação do repositório, inseriu arquivos e criou pastas dos projetos]
+- **[Jamilly Cardoso Barros]:** [o que fez no projeto]
 - **[Joyeeon Lee]:** [o que fez no projeto]
 - **[Lara Morais]:** [o que fez no projeto]
 - **[Marcely de Macedo]:** [o que fez no projeto]
