@@ -2,7 +2,7 @@ Painel do Censo Escolar 2024 — Educação Básica no Município de São Paulo
 
 Projeto 2 — Análise de Dados para Políticas Públicas (FGV EAESP)
 
-📌 Créditos
+Créditos
 
 Painel construído a partir dos microdados do Censo Escolar da Educação Básica 2024 (INEP), filtrados para o município de São Paulo, para o Projeto 2 do curso Análise de Dados para Pesquisas em Políticas Públicas (FGV EAESP).
 
@@ -19,7 +19,8 @@ Consulte a aba "Dinâmicas" para ver as tabelas dinâmicas que alimentam os grá
 Consulte a aba "Parâmetros" para os códigos das variáveis categóricas (dependência, localização, situação de funcionamento e faixas de porte).
 Consulte a aba "Água-Energia-Esgoto-Lixo" para o dicionário das variáveis de infraestrutura.
 A aba "microdados_ed_basica_2024" traz a base bruta, já filtrada para São Paulo, que alimenta todo o painel.
-⚠️ Disclaimer de Inteligência Artificial
+
+Disclaimer de Inteligência Artificial
 
 Este aviso vale apenas para o que realmente foi feito com apoio de IA no Projeto 2.
 
@@ -29,7 +30,7 @@ Para que foi usado: Apoiar a estruturação deste README, organizando o objetivo
 
 O que foi ajustado manualmente: O grupo revisou a descrição do painel e das abas para garantir que correspondiam exatamente ao que foi construído no Excel, e ajustou a redação para o padrão de linguagem usado no README do Projeto 1.
 
-📊 Aviso de Isenção de Responsabilidade de Dados
+Aviso de Isenção de Responsabilidade de Dados
 Fonte de Dados
 Fonte oficial: Censo Escolar da Educação Básica 2024 (INEP)
 Link oficial:
@@ -47,7 +48,7 @@ IN_AGUA_*, IN_ENERGIA_*, IN_ESGOTO_*, IN_LIXO_*	Indicadores binários (0/1) de i
 TAM_ESCOLA	Porte da escola: Microescola (até 50 matrículas), Pequena (51–200), Média (201–500), Grande (501–1000), Muito Grande (1001–5000), Mega escola (acima de 5000)
 QT_MAT_*	Quantidade de matrículas totais e por etapa, sexo, cor/raça e faixa etária
 
-👥 Disclaimer de Participação
+Disclaimer de Participação
 
 O que aprendemos com este projeto: Este projeto nos permitiu praticar, em uma base de dados pública real e grande (mais de 8 mil escolas), a construção de tabelas dinâmicas e painéis para cruzar variáveis categóricas (dependência, localização, porte) com indicadores de infraestrutura escolar. Aprendemos a interpretar os códigos e dicionários de variáveis do Censo Escolar do INEP e a montar um painel que resume visualmente essas informações. O projeto também reforçou a importância de documentar claramente a origem e a estrutura de uma base pública antes de analisá-la.
 
