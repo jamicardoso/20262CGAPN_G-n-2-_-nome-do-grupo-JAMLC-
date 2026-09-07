@@ -9,5 +9,4 @@
 [Acesse o Projeto 1](./projeto-1-simulador-pnae)
 #### Projeto 2 - Painel de Censo Escolar 
 [Acesse o Projeto 2](./projeto-2-painel-censo)
-#### Prints dos Projetos 
-[Acesse Imagens dos Projetos](./imagens)
+
