@@ -149,7 +149,7 @@ Este projeto nos permitiu aplicar, na prática, conceitos de fórmulas do Excel 
 **Papel de cada um:**
 
 - **[Ana Clara Oliveira ]:** [o que fez no projeto]
-- **[Jamilly Cardoso Barros]:** [o que fez no projeto]
+- **[Jamilly Cardoso Barros]:** [Criou repositório,adicionou membros e criou as pastas dos projetos]
 - **[Joohyeon Lee]:** [reuniu os prints e registrou a entrega no eClass]
 - **[Lara Morais]:** [o que fez no projeto]
 - **[Marcely de Macedo]:** [o que fez no projeto]
