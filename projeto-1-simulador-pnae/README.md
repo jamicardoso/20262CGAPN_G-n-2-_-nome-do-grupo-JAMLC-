@@ -148,11 +148,11 @@ Este projeto nos permitiu aplicar, na prática, conceitos de fórmulas do Excel 
 
 **Papel de cada um:**
 
-- **[Ana Clara Oliveira ]:** [subiu os arquivos]
+- **[Ana Clara Oliveira ]:** [Fez o README do projeto 1 ]
 - **[Jamilly Cardoso Barros]:** [Criou repositório,adicionou membros,criou as pastas dos projetos e fez o README do repositório]
-- **[Joohyeon Lee]:** [subiu os arquivos]
-- **[Lara Morais]:** [escreveu o README do Projeto 1]
-- **[Marcely de Macedo]:** [descrição e o disclaimer]
+- **[Joohyeon Lee]:** [Fez o documento word para entrega no ECLASS]
+- **[Lara Morais]:** [Fez dois gráficos do projeto 2 ]
+- **[Marcely de Macedo]:** [Explicou o que o grupo aprendeu com o projeto]
 
 ---
 
