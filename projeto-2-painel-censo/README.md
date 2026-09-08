@@ -81,4 +81,5 @@ Este projeto nos permitiu praticar, em uma base de dados pública real e grande 
 - **Jamilly Cardoso Barros:** revisou o README do Projeto 2, revisão geral do projeto 2 
 - **Joohyeon Lee:** reúne os prints e registra a entrega no eClass
 - **Lara Morais:** subiu os arquivos, fez gráficos
-- **Marcely de Macedo:** revisou word e reuniu prints
+- **Marcely de Macedo:** revisou word, ajudou ao fazer os gráficos
+- 
