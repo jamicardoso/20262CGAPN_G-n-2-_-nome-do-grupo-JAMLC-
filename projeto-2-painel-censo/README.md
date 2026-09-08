@@ -54,8 +54,8 @@ O que aprendemos com este projeto: Este projeto nos permitiu praticar, em uma ba
 
 Papel de cada um:
 
-[Ana Clara Oliveira]: 
-[Jamilly Cardoso Barros]: 
-[Joohyeon Lee]: 
-[Lara Morais]: 
-[Marcely de Macedo]: 
+[Ana Clara Oliveira]: subiu os arquivos
+[Jamilly Cardoso Barros]: escreveu o README do Projeto 2
+[Joohyeon Lee]: reúne os prints e registra a entrega no eClass
+[Lara Morais]: subiu os arquivos
+[Marcely de Macedo]: escreveu o README do Projeto 2
