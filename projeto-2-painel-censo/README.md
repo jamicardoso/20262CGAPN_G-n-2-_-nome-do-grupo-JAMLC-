@@ -50,7 +50,7 @@ O grupo revisou a descrição do painel e das abas para garantir que correspondi
 ### Fonte de Dados
 
 - **Fonte oficial:** Censo Escolar da Educação Básica 2024 (INEP)
-- **Link oficial:** *[inserir link]*
+- **Link oficial:** *[https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-escolar]*
 
 **O que os dados representam:**
 Os microdados trazem o cadastro de todas as escolas de educação básica do município de São Paulo que participaram do Censo Escolar 2024, com dados de identificação e localização de cada escola, sua situação de funcionamento, condições de infraestrutura básica (água, energia, esgoto e lixo) e o número de matrículas, desagregado por etapa de ensino, sexo, cor/raça e faixa etária.
@@ -77,8 +77,8 @@ Este projeto nos permitiu praticar, em uma base de dados pública real e grande 
 
 **Papel de cada um:**
 
-- **Ana Clara Oliveira:** subiu os arquivos
-- **Jamilly Cardoso Barros:** escreveu o README do Projeto 2
+- **Ana Clara Oliveira:**  escreveu o README do Projeto 2, fez gráficos
+- **Jamilly Cardoso Barros:** revisou o README do Projeto 2, revisão geral do projeto 2 
 - **Joohyeon Lee:** reúne os prints e registra a entrega no eClass
-- **Lara Morais:** subiu os arquivos
-- **Marcely de Macedo:** escreveu o README do Projeto 2
+- **Lara Morais:** subiu os arquivos, fez gráficos
+- **Marcely de Macedo:** revisou word e reuniu prints
