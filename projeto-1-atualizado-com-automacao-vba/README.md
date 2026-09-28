@@ -106,11 +106,9 @@ Projeto [X] — Análise de Dados para Políticas Públicas (FGV EAESP)
 
 Este aviso vale apenas para o que realmente foi feito com apoio de IA.
 
-**Ferramenta utilizada:** [preencher — ou escrever "Não foi usada IA neste projeto"]
-
-**Para que foi usado:** [preencher]
-
-**Exemplo de prompt utilizado:** [preencher]
+**Ferramenta utilizada:** Claude
+**Para que foi usado:** Ajuda na explicação para o READEME
+**Exemplo de prompt utilizado:** Claude, me ajude a estruturar o que é necessário ter no README com base nesse projeto.
 
 ## 📊 Aviso de Isenção de Responsabilidade de Dados
 
