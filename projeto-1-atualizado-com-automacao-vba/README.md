@@ -136,7 +136,9 @@ Este aviso vale apenas para o que realmente foi feito com apoio de IA.
 
 ## 👥 Disclaimer de Participação
 
-**O que aprendemos com este projeto:** [preencher com a fala do grupo. Pontos possíveis: uso de macro em VBA para gravar dados em outra aba; validação de campos com mensagem de erro; banco de dados dentro do Excel; e o que já vinha do Projeto 1 (PROCV, SE aninhado com E/OU, SOMARPRODUTO e Tabela de Dados).]
+**O que aprendemos com este projeto:** Com este projeto, aprendemos a integrar diferentes ferramentas do Excel para transformar uma base de dados em um processo mais organizado, automatizado e seguro. Além de retomar conhecimentos desenvolvidos no Projeto 1, como o uso de PROCV, funções SE com E/OU, SOMARPRODUTO e Tabela de Dados, avançamos na utilização de macros em VBA, aprendendo a registrar informações automaticamente em outra aba do banco de dados.
+Também aprendemos a utilizar validações de campos e mensagens de erro, tornando a ferramenta mais intuitiva e reduzindo a possibilidade de inserção de informações inadequadas. A construção de um banco de dados dentro do próprio Excel nos ajudou a compreender a importância de organizar e registrar as informações de forma estruturada, especialmente quando diferentes usuários podem realizar simulações.
+Por fim, o projeto mostrou como a automação pode facilitar processos que seriam repetitivos quando realizados manualmente. Mais do que aprender funções e ferramentas específicas, compreendemos como combinar análise de dados, organização das informações, regras de negócio e automação para construir uma solução funcional. Também aprendemos, na prática, a importância de testar, revisar e documentar uma ferramenta para garantir que ela seja compreensível e possa ser utilizada corretamente por outras pessoas.
 
 **Papel de cada um:**
 
