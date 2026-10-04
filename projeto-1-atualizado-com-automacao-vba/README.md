@@ -113,7 +113,7 @@ Este aviso vale apenas para o que realmente foi feito com apoio de IA.
 ## 📊 Aviso de Isenção de Responsabilidade de Dados
 
 **Fonte oficial:** Resolução CD/FNDE nº 1, de 18 de fevereiro de 2026 (valores per capita do PNAE, reajustados em 14,35% em relação a 2025)
-**Link oficial:** [inserir link da resolução]
+**Link oficial:** [https://www.gov.br/fnde/pt-br/acesso-a-informacao/legislacao/resolucoes/2026/resolucao-cd_fnde-no-1-de-18-de-fevereiro-de-2026-dou-imprensa-nacional.pdf/view]
 
 **O que os dados representam:** Os valores per capita diários (R$/dia) que o governo federal repassa às escolas por aluno matriculado, variando conforme a modalidade de ensino. Multiplicados pelo número de matrículas e pelos dias letivos do ano, determinam o repasse anual da escola. A escola, as matrículas, as faixas de porte e a regra de elegibilidade são fictícias.
 
@@ -131,6 +131,9 @@ Este aviso vale apenas para o que realmente foi feito com apoio de IA.
 | racional da taxa | Justificativa escrita do fator de ajuste escolhido |
 | usuário | Nome de quem fez e registrou a simulação |
 
+## Como o grupo testou a Automação
+
+
 ## 👥 Disclaimer de Participação
 
 **O que aprendemos com este projeto:** [preencher com a fala do grupo. Pontos possíveis: uso de macro em VBA para gravar dados em outra aba; validação de campos com mensagem de erro; banco de dados dentro do Excel; e o que já vinha do Projeto 1 (PROCV, SE aninhado com E/OU, SOMARPRODUTO e Tabela de Dados).]
@@ -138,7 +141,7 @@ Este aviso vale apenas para o que realmente foi feito com apoio de IA.
 **Papel de cada um:**
 
 - [Ana Clara Oliveira]: Fez o readme do Projeto 1
-- [Jamilly Cardoso Barros]: Fez o projeto 1 
-- [Joohyeon Lee]: Fez o projeto 1  
+- [Jamilly Cardoso Barros]: Fez o projeto 1 e implementou o campo do usuário
+- [Joohyeon Lee]: Fez o projeto 1 e implementou o campo de usuário  
 - [Lara Morais]: Revisão do projeto 1 
 - [Marcely de Macedo]: Revisão do projeto 2 
