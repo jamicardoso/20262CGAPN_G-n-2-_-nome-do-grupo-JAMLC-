@@ -24,7 +24,6 @@ A tabela abaixo resume as melhorias estruturais implementadas nesta nova versão
 | **Atualização do Painel** | Lentidão e necessidade de múltiplos cliques. | **Otimização de Background** (atualização imediata). |
 | **Interface Visual** | Gráficos padrão com poluição visual. | **Design integrado translúcido** com segmentação textual. |
 
----
 
 ## 🛠️ Detalhamento Técnico das Implementações
 
@@ -48,7 +47,6 @@ A tabela abaixo resume as melhorias estruturais implementadas nesta nova versão
 
 - **Desativação de Atualização em Segundo Plano:** Ajustamos as propriedades da consulta (`Microdados`) desmarcando a opção de atualização em segundo plano. Isso força o Excel a aguardar a conclusão do pipeline de dados antes de renderizar os gráficos, garantindo a sincronia perfeita do painel em um único clique no botão **Atualizar Tudo**.
 
----
 
 ## 📂 Base de Dados
 
@@ -56,11 +54,9 @@ Como os microdados do **Censo Escolar 2024** possuem um tamanho elevado, a base 
 
 ### 📥 Download da Base
 
-[**Baixar a base de dados — Censo Escolar 2024**](https://drive.google.com/uc?export=download&id=1v34Db7utOq1LZY0WIe33axuDlBm6qips)
+[**Baixar a base de dados — Censo Escolar 2024**](https://drive.google.com/file/d/1v34Db7utOq1LZY0WIe33axuDlBm6qips/view?usp=drive_link)
 
 > **Importante:** após baixar a base, salve o arquivo em uma pasta de fácil acesso no seu computador. O caminho do arquivo deverá ser configurado no Power Query antes da primeira atualização do painel. Consulte a seção **"Como rodar o projeto no seu computador"** abaixo para realizar essa configuração.
-
----
 
 ## 📈 Como Testar a Automação do Painel
 
