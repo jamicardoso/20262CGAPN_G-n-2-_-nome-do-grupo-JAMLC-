@@ -134,18 +134,6 @@ O funcionamento do projeto pode ser resumido da seguinte forma:
 - **Joins / Junções de Tabelas**
 - **Microdados do Censo Escolar 2024**
 
-
-# 🤖 Uso de Inteligência Artificial
-
-**Ferramenta utilizada:** [NOME DA FERRAMENTA DE IA UTILIZADA PELO GRUPO]
-
-**Para que foi usada:** [DESCREVER EXATAMENTE PARA QUE A IA FOI UTILIZADA NO PROJETO.]
-
-**Exemplo de prompt utilizado:**
-
-> [COLE AQUI UM PROMPT REAL QUE FOI UTILIZADO PELO GRUPO.]
-
-**O que foi ajustado manualmente:** [DESCREVER OS AJUSTES REALIZADOS MANUALMENTE PELO GRUPO APÓS A UTILIZAÇÃO DA IA.]
 # 🤖 Uso de Inteligência Artificial
 
 **Ferramenta utilizada:** ChatGPT
