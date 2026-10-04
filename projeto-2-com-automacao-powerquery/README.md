@@ -137,5 +137,5 @@ A atualização do Projeto 2 também permitiu compreender como o **filtro realiz
 
 **[Lara Morais]:** [Fez o projeto 2 ]
 
-**[Marcely de Macedo ]:** [Fez documento word e fez o projeto 2 ]
+**[Marcely de Macedo ]:** [Fez documento pdf e fez o projeto 2 ]
 
