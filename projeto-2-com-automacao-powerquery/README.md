@@ -139,12 +139,82 @@ A versão 2.0 busca principalmente aumentar a **automação, flexibilidade, efic
 
 ---
 
+## 🖼️ Prints do Resultado
+
+> **Adicione aqui uma ou duas imagens mostrando o painel funcionando**, conforme solicitado na documentação do projeto.
+
+![Painel do Censo Escolar 2024](COLE-AQUI-O-NOME-OU-CAMINHO-DA-IMAGEM)
+
+---
+
+# 📌 Documentação da Versão Atualizada — Projeto 2
+
+Esta versão corresponde à atualização do **Projeto 2 — Painel do Censo Escolar**, realizada na atividade monitorada de 28/09.
+
+A principal atualização foi a substituição da base anteriormente utilizada, com recorte de São Paulo, pela **base completa do Censo Escolar 2024, contendo os municípios do Brasil**. O filtro do município passou a ser realizado dentro do **Power Query**, por meio de um **Inner Join** entre a consulta principal e a tabela de controle contendo UF e Município.
+
+A atualização mantém a lógica praticada anteriormente em sala, mas amplia a escala da base e automatiza o processo de seleção do município.
+
+---
+
+# 🤖 Uso de Inteligência Artificial
+
+**Ferramenta utilizada:** [NOME DA FERRAMENTA DE IA UTILIZADA PELO GRUPO]
+
+**Para que foi usada:** [DESCREVER EXATAMENTE PARA QUE A IA FOI UTILIZADA NO PROJETO.]
+
+**Exemplo de prompt utilizado:**
+
+> [COLE AQUI UM PROMPT REAL QUE FOI UTILIZADO PELO GRUPO.]
+
+**O que foi ajustado manualmente:** [DESCREVER OS AJUSTES REALIZADOS MANUALMENTE PELO GRUPO APÓS A UTILIZAÇÃO DA IA.]
+
+---
+
+# 📊 Fonte de Dados
+
+**Fonte oficial:** Censo Escolar 2024 — INEP.
+
+**Link oficial:** [COLE AQUI O LINK OFICIAL UTILIZADO PELO GRUPO PARA ACESSAR/OBTER OS DADOS.]
+
+**O que os dados representam:** Os dados utilizados no projeto são os microdados do **Censo Escolar 2024**, utilizados para analisar informações relacionadas às escolas e à infraestrutura educacional.
+
+**Estrutura:** O projeto utiliza a tabela principal de **Microdados** e tabelas auxiliares relacionadas à **Dependência, Localização, Localização Diferenciada e Situação**. Entre as informações utilizadas estão variáveis relacionadas ao município, número de matrículas e infraestrutura das escolas, incluindo **Água, Energia, Esgoto e Lixo**.
+
+---
+
+# 👥 Participação do Grupo
+
+## O que aprendemos com este projeto
+
+Com o desenvolvimento deste projeto, aprendemos a trabalhar com uma base de dados de maior volume utilizando o **Power Query**, realizando a importação, tratamento, transformação e combinação de diferentes tabelas. Também aprendemos a utilizar **Inner Joins e Left Joins**, criar colunas condicionais, trabalhar com dados nulos e construir um fluxo automatizado que conecta o tratamento dos dados às tabelas dinâmicas e ao dashboard.
+
+A atualização do Projeto 2 também permitiu compreender como o **filtro realizado dentro do Power Query** pode reduzir a base nacional para o município selecionado antes do processamento das tabelas dinâmicas, tornando o painel mais dinâmico e automatizado.
+
+## Papel de cada integrante
+
+**[NOME DO INTEGRANTE 1]:** [DESCREVER O QUE FEZ NO PROJETO.]
+
+**[NOME DO INTEGRANTE 2]:** [DESCREVER O QUE FEZ NO PROJETO.]
+
+**[NOME DO INTEGRANTE 3]:** [DESCREVER O QUE FEZ NO PROJETO.]
+
+**[NOME DO INTEGRANTE 4]:** [DESCREVER O QUE FEZ NO PROJETO.]
+
+**[NOME DO INTEGRANTE 5]:** [DESCREVER O QUE FEZ NO PROJETO.]
+
+**[NOME DO INTEGRANTE 6]:** [DESCREVER O QUE FEZ NO PROJETO.]
+
+---
+
 ## 👥 Projeto
 
 **Projeto 2 — Painel do Censo Escolar**
 
-**Versão:** 2.0  
-**Ferramentas:** Microsoft Excel + Power Query  
+**Versão:** 2.0
+
+**Ferramentas:** Microsoft Excel + Power Query
+
 **Base de dados:** Censo Escolar 2024
 
----
+**Atualização:** Monitorada de 28/09/2026
