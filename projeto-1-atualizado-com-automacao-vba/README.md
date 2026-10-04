@@ -132,6 +132,7 @@ Este aviso vale apenas para o que realmente foi feito com apoio de IA.
 | usuário | Nome de quem fez e registrou a simulação |
 
 ## Como o grupo testou a Automação
+Testamos a automação realizando diferentes cenários: inserimos alguns nomes das pessoas do grupo no campo "Usuário", alteramos o fator de ajuste e também deixamos o campo "Usuário" em branco. Esses testes foram realizados para confirmar se as validações estavam funcionando corretamente e se o sistema respondia de acordo com cada situação.
 
 
 ## 👥 Disclaimer de Participação
