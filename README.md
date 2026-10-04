@@ -12,5 +12,5 @@
 #### Projeto 1 - Atualizado Com Automação VBA
 [Acesse o Projeto 1 Atualizado](./projeto-1-atualizado-com-automacao-vba)
 #### Projeto 2 - Atualizado Com Automação Power Query
-[Acesse o Projeto 1 Atualizado](./projeto-2-com-automacao-powerquery)
+[Acesse o Projeto 2 Atualizado](./projeto-2-com-automacao-powerquery)
 
