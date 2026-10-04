@@ -99,41 +99,6 @@ Pronto! Agora o Excel já sabe onde a base de dados está guardada.
 
 Você já pode digitar qualquer cidade na tabela de controle e clicar em **Atualizar Tudo** para ver o painel funcionar.
 
----
-
-## 🔄 Fluxo de Funcionamento
-
-O funcionamento do projeto pode ser resumido da seguinte forma:
-
-**Base de Dados do Censo Escolar 2024**  
-↓  
-**Power Query — Importação dos Microdados**  
-↓  
-**Tratamento e Transformação dos Dados**  
-↓  
-**Joins com Tabelas de Apoio**  
-↓  
-**Filtro Dinâmico de Município**  
-↓  
-**Classificação e Criação de Indicadores**  
-↓  
-**Tabelas Dinâmicas**  
-↓  
-**Dashboard / Painel Interativo**
-
----
-
-## 💻 Tecnologias e Recursos Utilizados
-
-- **Microsoft Excel**
-- **Power Query**
-- **Linguagem M**
-- **Tabelas Dinâmicas**
-- **Gráficos Dinâmicos**
-- **Segmentação de Dados**
-- **Joins / Junções de Tabelas**
-- **Microdados do Censo Escolar 2024**
-
 # 🤖 Uso de Inteligência Artificial
 
 **Ferramenta utilizada:** ChatGPT
