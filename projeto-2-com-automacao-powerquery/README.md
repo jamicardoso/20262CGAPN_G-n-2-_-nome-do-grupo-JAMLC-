@@ -133,15 +133,13 @@ A atualização do Projeto 2 também permitiu compreender como o **filtro realiz
 
 ## Papel de cada integrante
 
-**[NOME DO INTEGRANTE 1]:** [DESCREVER O QUE FEZ NO PROJETO.]
+**[Ana Clara Oliveira ]:** [Revisão do projeto 2 ]
 
-**[NOME DO INTEGRANTE 2]:** [DESCREVER O QUE FEZ NO PROJETO.]
+**[Jamilly Cardoso Barros]:** [Readme do projeto 2 ]
 
-**[NOME DO INTEGRANTE 3]:** [DESCREVER O QUE FEZ NO PROJETO.]
+**[Joohyeon Lee]:** [Revisão do projeto 2 ]
 
-**[NOME DO INTEGRANTE 4]:** [DESCREVER O QUE FEZ NO PROJETO.]
+**[Lara Morais]:** [Fez o projeto 2 ]
 
-**[NOME DO INTEGRANTE 5]:** [DESCREVER O QUE FEZ NO PROJETO.]
-
-**[NOME DO INTEGRANTE 6]:** [DESCREVER O QUE FEZ NO PROJETO.]
+**[Marcely de Macedo ]:** [Fez documento word e fez o projeto 2 ]
 
