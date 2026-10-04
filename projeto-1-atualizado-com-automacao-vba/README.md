@@ -146,4 +146,4 @@ Por fim, o projeto mostrou como a automação pode facilitar processos que seria
 - [Jamilly Cardoso Barros]: Fez o projeto 1 e implementou o campo do usuário
 - [Joohyeon Lee]: Fez o projeto 1 e implementou o campo de usuário  
 - [Lara Morais]: Revisão do projeto 1 
-- [Marcely de Macedo]: Revisão do projeto 2 e fez documento pdf
+- [Marcely de Macedo]: Revisão do projeto 1 e fez documento pdf
