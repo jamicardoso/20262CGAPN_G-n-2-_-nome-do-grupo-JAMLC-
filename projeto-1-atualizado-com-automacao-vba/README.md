@@ -137,8 +137,8 @@ Este aviso vale apenas para o que realmente foi feito com apoio de IA.
 
 **Papel de cada um:**
 
-- [Ana Clara Oliveira]: Fez o readme do P1
+- [Ana Clara Oliveira]: Fez o readme do Projeto 1
 - [Jamilly Cardoso Barros]: Fez o projeto 1 
-- [Joohyeon Lee]: Fez o projeto 1
-- [Lara Morais]: Fez o projeto 2
-- [Marcely de Macedo]: Fez o projeto 2
+- [Joohyeon Lee]: Fez o projeto 1  
+- [Lara Morais]: Revisão do projeto 1 
+- [Marcely de Macedo]: Revisão do projeto 2 
