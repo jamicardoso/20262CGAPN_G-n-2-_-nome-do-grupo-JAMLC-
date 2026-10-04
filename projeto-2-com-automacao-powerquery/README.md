@@ -54,7 +54,8 @@ Como os microdados do **Censo Escolar 2024** possuem um tamanho elevado, a base 
 
 ### 📥 Download da Base
 
-[**Baixar a base de dados — Censo Escolar 2024**](https://drive.google.com/file/d/1v34Db7utOq1LZY0WIe33axuDlBm6qips/view?usp=drive_link)
+[**Baixar a base de dados — Censo Escolar 2024**](https://docs.google.com/spreadsheets/d/1BYqwKhubPnzj9sxMSzVwqjFvMSUhDZgL/edit?usp=drive_link&ouid=113147806100456307009&rtpof=true&sd=true)
+
 
 > **Importante:** após baixar a base, salve o arquivo em uma pasta de fácil acesso no seu computador. O caminho do arquivo deverá ser configurado no Power Query antes da primeira atualização do painel. Consulte a seção **"Como rodar o projeto no seu computador"** abaixo para realizar essa configuração.
 
