@@ -146,6 +146,17 @@ O funcionamento do projeto pode ser resumido da seguinte forma:
 > [COLE AQUI UM PROMPT REAL QUE FOI UTILIZADO PELO GRUPO.]
 
 **O que foi ajustado manualmente:** [DESCREVER OS AJUSTES REALIZADOS MANUALMENTE PELO GRUPO APÓS A UTILIZAÇÃO DA IA.]
+# 🤖 Uso de Inteligência Artificial
+
+**Ferramenta utilizada:** ChatGPT
+
+**Para que foi usada:** A ferramenta de Inteligência Artificial foi utilizada como auxílio na **formatação e organização do arquivo README**, contribuindo para estruturar as informações do projeto em Markdown e melhorar a apresentação do documento no GitHub.
+
+**Exemplo de prompt utilizado:**
+
+> "Pegar exatamente o README que eu escrevi sem alterar o que eu tinha escrito e devolver uma versão final completa, já pronta para colar no GitHub."
+
+**O que foi ajustado manualmente:** Após o auxílio da ferramenta, o grupo realizou a revisão do conteúdo e os ajustes necessários, mantendo as informações, descrições técnicas e características do projeto elaboradas pelo grupo.
 
 
 # 📊 Fonte de Dados
