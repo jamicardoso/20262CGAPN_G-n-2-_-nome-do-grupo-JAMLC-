@@ -147,13 +147,12 @@ O funcionamento do projeto pode ser resumido da seguinte forma:
 
 **O que foi ajustado manualmente:** [DESCREVER OS AJUSTES REALIZADOS MANUALMENTE PELO GRUPO APÓS A UTILIZAÇÃO DA IA.]
 
--
 
 # 📊 Fonte de Dados
 
 **Fonte oficial:** Censo Escolar 2024 — INEP.
 
-**Link oficial:** [COLE AQUI O LINK OFICIAL UTILIZADO PELO GRUPO PARA ACESSAR/OBTER OS DADOS.]
+**Link oficial:** [https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-escolar]
 
 **O que os dados representam:** Os dados utilizados no projeto são os microdados do **Censo Escolar 2024**, utilizados para analisar informações relacionadas às escolas e à infraestrutura educacional.
 
