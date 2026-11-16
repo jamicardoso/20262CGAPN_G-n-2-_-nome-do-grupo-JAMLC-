@@ -13,4 +13,7 @@
 [Acesse o Projeto 1 Atualizado](./projeto-1-atualizado-com-automacao-vba)
 #### Projeto 2 - Atualizado Com Automação Power Query
 [Acesse o Projeto 2 Atualizado](./projeto-2-com-automacao-powerquery)
+#### Projeto 3 - Simulador PNAE Python
+[Acesse o Projeto 3 Atualizado](./projeto-3-simulador-pnae-python)
+
 
