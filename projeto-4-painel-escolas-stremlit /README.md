@@ -25,7 +25,7 @@ python -m streamlit run painel.py
 
 **Todas as regiões**
 
-![Painel com todas regiões.png](printsprojeto4/Painel com todas regiões.png)
+[![Painel com todas regiões.png](printsprojeto4/Painel com todas regiões.png)](https://github.com/jamicardoso/20262CGAPN_G-n-2-_-nome-do-grupo-JAMLC-/blob/e9d91a59af34c0052ce92ef6f2bedd40844bc98c/projeto-4-painel-escolas-stremlit%20/printsprojeto4/Painel%20com%20todas%20regi%C3%B5es.png)
 
 **Vale do Ribeira**
 
