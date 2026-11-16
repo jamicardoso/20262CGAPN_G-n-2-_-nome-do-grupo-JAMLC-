@@ -25,7 +25,7 @@ python -m streamlit run painel.py
 
 **Todas as regiões**
 
-![Painel com todas as regiões](prints/01-todas-as-regioes.png)
+Painel com todas regiões.png
 
 **Vale do Ribeira**
 
