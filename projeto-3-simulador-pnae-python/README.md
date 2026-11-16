@@ -19,8 +19,7 @@
 4. **Saída:** Após pressionar `Enter` na última pergunta, o terminal exibirá o porte da escola, os repasses discriminados por etapa, o custo anual estimado dos alimentos, o percentual de cobertura federal e o saldo financeiro restante a ser coberto por outras fontes.
 
 ## Prints do resultado
-
-indicar onde estão os prints 
+[Acesse a pasta de prints do Projeto 3  ](./printsprojeto3)
 
 ---
 
