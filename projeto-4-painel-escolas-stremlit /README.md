@@ -22,18 +22,7 @@ python -m streamlit run painel.py
 **Como usar os filtros:** são duas caixas de seleção no topo da página. Escolha a região, depois a dependência (Federal, Estadual, Municipal ou Privada). Deixe em "Todas"/"Todos" para não filtrar. Todo o painel é recalculado a cada mudança. Se a combinação não tiver nenhuma escola, aparece um aviso.
 
 ## Prints do resultado
-
-**Todas as regiões**
-
-[![Painel com todas regiões.png](printsprojeto4/Painel com todas regiões.png)](https://github.com/jamicardoso/20262CGAPN_G-n-2-_-nome-do-grupo-JAMLC-/blob/e9d91a59af34c0052ce92ef6f2bedd40844bc98c/projeto-4-painel-escolas-stremlit%20/printsprojeto4/Painel%20com%20todas%20regi%C3%B5es.png)
-
-**Vale do Ribeira**
-
-![Painel com o Vale do Ribeira](prints/02-vale-do-ribeira.png)
-
-**Vale do Ribeira, escolas municipais**
-
-![Painel com o Vale do Ribeira e dependência municipal](prints/03-vale-do-ribeira-municipal.png)
+[Acesse a pasta de prints do Projeto 4  ](./printsprojeto4)
 
 ## Elementos do painel
 
