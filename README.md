@@ -14,7 +14,7 @@
 #### Projeto 2 - Atualizado Com Automação Power Query
 [Acesse o Projeto 2 Atualizado](./projeto-2-com-automacao-powerquery)
 #### Projeto 3 - Simulador PNAE Python
-[Acesse o Projeto 3 ](./projeto-3-simulador-pnae-python)#### Projeto 3 - Simulador PNAE Python
+[Acesse o Projeto 3 ](./projeto-3-simulador-pnae-python)
 #### Projeto 4 - Painel Escolas Streamlit
 [Acesse o Projeto 4 ](./projeto-4-painel-escolas-stremlit)
 
