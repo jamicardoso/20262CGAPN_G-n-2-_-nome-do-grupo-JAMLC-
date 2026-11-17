@@ -101,6 +101,6 @@ O `painel.py` segue a ordem vista em aula: função, carregamento dos dados, fil
 
 - Ana Clara Oliveira: partiu do painel da Aula 21 para montar a versão final do `painel.py`, escreveu o README e publicou o projeto no GitHub.
 - Marcely Macedo: ajudou a criar os filtros do painel (região, município e dependência) e a lógica que recalcula os indicadores, os gráficos, o mapa e a lista a cada mudança.
-- Carina Lee: ajudou a fazer os gráficos de características (porte e localização) e de infraestrutura (água e esgoto) e organizou o código na ordem vista em aula.
-- Jamily Cardoso: Ofereceu suporte ao desenvolvimento do projeto e às atividades realizadas pelo grupo
+- Joohyeon Lee: ajudou a fazer os gráficos de características (porte e localização) e de infraestrutura (água e esgoto) e organizou o código na ordem vista em aula.
+- Jamilly Cardoso: Ofereceu suporte ao desenvolvimento do projeto e às atividades realizadas pelo grupo
 - Lara Morais: Ofereceu suporte ao desenvolvimento do projeto e às atividades realizadas pelo grupo
