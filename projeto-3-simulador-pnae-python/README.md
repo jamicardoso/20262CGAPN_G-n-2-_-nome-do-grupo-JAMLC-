@@ -105,3 +105,29 @@ O código foi estruturado mantendo os parâmetros fixos no topo, seguidos pelas 
   * [Microdados do Censo Escolar - INEP](https://www.gov.br)
   * [Portal QEdu - Dados Educacionais](https://qedu.org.br)
   * [FNDE - Valores Per Capita PNAE](https://www.gov.br)
+ 
+##  Participação do Grupo
+
+### O que aprendemos com este projeto?
+
+Aprendemos a desenvolver um programa em **Python** para analisar a quantidade de matrículas escolares e calcular os repasses destinados às diferentes etapas de ensino.
+
+Ao longo do projeto, aprendemos a:
+
+- Organizar o código em **funções**;
+- Utilizar **parâmetros** e **variáveis**;
+- **Validar** as entradas do usuário;
+- Retornar resultados por meio do `return`.
+
+Também compreendemos a importância de dividir o programa em etapas menores, tornando o código mais organizado, funcional e fácil de compreender. Além disso, a pesquisa sobre os custos dos alimentos contribuiu para fundamentar os valores utilizados nos cálculos.
+
+### Papel de cada integrante
+
+| Integrante | Responsabilidade |
+|---|---|
+| **Jamilly Cardoso** | Elaboração da nova estrutura do código, criação de uma nova função e definição das variáveis necessárias para o funcionamento do programa. |
+| **Lara Morais** | Elaboração da reflexão do projeto e pesquisa sobre os custos dos alimentos, contribuindo para a fundamentação dos cálculos. |
+| **Ana Clara Oliveira** | Auxiliou na elaboração e organização do `README`, contribuindo para a documentação do projeto. |
+| **Marcely Macedo** | Ofereceu suporte ao desenvolvimento do projeto e às atividades realizadas pelo grupo. |
+| **Karina Lee** | Ofereceu suporte ao desenvolvimento do projeto e às atividades realizadas pelo grupo. |
+
