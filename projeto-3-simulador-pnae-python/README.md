@@ -129,5 +129,5 @@ Também compreendemos a importância de dividir o programa em etapas menores, to
 | **Lara Morais** | Elaboração da reflexão do projeto e pesquisa sobre os custos dos alimentos, contribuindo para a fundamentação dos cálculos. |
 | **Ana Clara Oliveira** | Auxiliou na elaboração e organização do `README`, contribuindo para a documentação do projeto. |
 | **Marcely Macedo** | Ofereceu suporte ao desenvolvimento do projeto e às atividades realizadas pelo grupo. |
-| **Karina Lee** | Ofereceu suporte ao desenvolvimento do projeto e às atividades realizadas pelo grupo. |
+| **Joohyeon Lee** | Ofereceu suporte ao desenvolvimento do projeto e às atividades realizadas pelo grupo. |
 
