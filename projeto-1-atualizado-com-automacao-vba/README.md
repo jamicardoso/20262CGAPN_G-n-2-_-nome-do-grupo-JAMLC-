@@ -2,7 +2,7 @@
 
 Planilha de Excel (`.xlsm`) que estima o repasse financeiro do Programa Nacional de Alimentação Escolar (PNAE) a uma escola e **registra cada simulação feita** em um banco de dados dentro do próprio arquivo, por meio de uma macro em VBA.
 
-Criada como artefato do Projeto [X] do curso Análise de Dados para Pesquisas em Políticas Públicas (FGV EAESP), usando como estudo de caso a escola fictícia EMEB Vila Quitaúna, no bairro de Quitaúna, Osasco/SP.
+Criada como artefato do Projeto 1  do curso Análise de Dados para Pesquisas em Políticas Públicas (FGV EAESP), usando como estudo de caso a escola fictícia EMEB Vila Quitaúna, no bairro de Quitaúna, Osasco/SP.
 
 ## O que a planilha faz
 
@@ -98,7 +98,7 @@ Arquivo único `.xlsm` com quatro abas:
 ## Créditos
 
 Simulador de Repasse do PNAE — Versão Monitorada
-Projeto [X] — Análise de Dados para Políticas Públicas (FGV EAESP)
+Projeto 1  — Análise de Dados para Políticas Públicas (FGV EAESP)
 
 📌 Planilha construída pelo grupo. A macro `RegistrarSimulacao` partiu de um código-base do curso, e o grupo completou a parte do campo Usuário (variável, validação e limpeza).
 
